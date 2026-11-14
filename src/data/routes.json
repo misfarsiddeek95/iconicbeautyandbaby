@@ -1,0 +1,147 @@
+[
+  {
+    "route": "/",
+    "file": "index.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/about",
+    "file": "about.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/accessibility",
+    "file": "accessibility.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/account",
+    "file": "account.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/article",
+    "file": "article.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/brands",
+    "file": "brands.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/cart",
+    "file": "cart.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/categories",
+    "file": "categories.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/category",
+    "file": "category.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/checkout",
+    "file": "checkout.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/compare",
+    "file": "compare.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/contact",
+    "file": "contact.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/cookies",
+    "file": "cookies.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/faq",
+    "file": "faq.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/gift-cards",
+    "file": "gift-cards.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/help",
+    "file": "help.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/journal",
+    "file": "journal.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/loyalty",
+    "file": "loyalty.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/order-confirmation",
+    "file": "order-confirmation.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/privacy",
+    "file": "privacy.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/product",
+    "file": "product.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/shipping-returns",
+    "file": "shipping-returns.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/shop",
+    "file": "shop.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/sitemap",
+    "file": "sitemap.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/stores",
+    "file": "stores.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/terms",
+    "file": "terms.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/top-deals",
+    "file": "top-deals.html",
+    "robots": "index,follow"
+  },
+  {
+    "route": "/track-order",
+    "file": "track-order.html",
+    "robots": "noindex,follow"
+  },
+  {
+    "route": "/wishlist",
+    "file": "wishlist.html",
+    "robots": "noindex,follow"
+  }
+]

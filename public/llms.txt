@@ -1,0 +1,47 @@
+# Iconic Beauty & Baby
+
+> Iconic Beauty & Baby is a Sri Lankan beauty and baby store, trading as Iconic Beauty and Baby (PVT) LTD, at No 118, Justice Akbar Mawatha, Colombo 02, Sri Lanka.
+
+## What this site covers
+- 798 products and 878 SKUs across 129 brands.
+- Categories: skin care, hair care, makeup, fragrance, body and bath, baby and mother, accessories and jewellery, wellness, and gifts and home.
+- Prices are in Sri Lankan rupees (LKR) and are built from the current stock report.
+- A small set of launch offers shows the selling price with the regular price struck through.
+- Checkout, accounts, reviews and orders are browser-only demos. No payment is taken and no order is sent to a server.
+
+## Key pages
+- [Home](https://iconicbeautyandbaby.com/)
+- [Shop all products](https://iconicbeautyandbaby.com/shop.html)
+- [Categories](https://iconicbeautyandbaby.com/categories.html)
+- [Brands](https://iconicbeautyandbaby.com/brands.html)
+- [Current offers](https://iconicbeautyandbaby.com/top-deals.html)
+- [About](https://iconicbeautyandbaby.com/about.html)
+- [Contact](https://iconicbeautyandbaby.com/contact.html)
+- [FAQs](https://iconicbeautyandbaby.com/faq.html)
+- [Journal sample guides](https://iconicbeautyandbaby.com/journal.html)
+  - [Simple skin care routine](https://iconicbeautyandbaby.com/journal/simple-skincare-routine-sri-lanka.html)
+  - [Choosing a foundation shade](https://iconicbeautyandbaby.com/journal/choose-foundation-shade.html)
+  - [Baby bath-time checklist](https://iconicbeautyandbaby.com/journal/baby-bath-time-checklist.html)
+  - [Storing perfume and makeup](https://iconicbeautyandbaby.com/journal/store-perfume-makeup-hot-humid-climate.html)
+- [Visit the Colombo 02 store](https://iconicbeautyandbaby.com/stores.html)
+- [Privacy and cookies](https://iconicbeautyandbaby.com/privacy.html)
+- [Terms](https://iconicbeautyandbaby.com/terms.html)
+
+## Contact and location
+- Legal entity: Iconic Beauty and Baby (PVT) LTD
+- Business registration: PV00338908
+- Address: No 118, Justice Akbar Mawatha, Colombo 02, Sri Lanka
+- Phone: 077 629 0490
+- Mobile and WhatsApp: 077 629 0490
+- Email: hello@iconicbeautyandbaby.com
+- Contact page: https://iconicbeautyandbaby.com/contact.html
+- Directions: https://www.google.com/maps/search/?api=1&query=No+118+Justice+Akbar+Mawatha+Colombo+02+Sri+Lanka
+- Opening hours: Mon–Thu, Sat and Sun 8.00am–9.30pm; Fri 1.30pm–9.30pm. One store only.
+
+## Editorial and data notes
+- Product names, SKUs, prices and stock come from the current stock report.
+- We do not publish invented reviews, ratings, awards or certifications.
+- Product ingredients, directions and warnings should always be checked on the pack.
+- The demo does not take payment or ship goods.
+
+Last updated: 2026-11-10

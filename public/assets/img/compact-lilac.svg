@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" fill="none">
+<defs>
+  <linearGradient id="b" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#d8c9e6"/><stop offset="1" stop-color="#c4b0d8"/>
+  </linearGradient>
+  <linearGradient id="l" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#9a77b7"/><stop offset="1" stop-color="#855fa3"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity=".55"/>
+    <stop offset=".45" stop-color="#fff" stop-opacity=".05"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".25"/>
+  </linearGradient>
+  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="14"/>
+  </filter>
+</defs>
+<ellipse cx="300" cy="505" rx="168" ry="16" fill="#3b2b33" opacity=".13" filter="url(#soft)"/>
+<g transform="translate(300 300) scale(1.4) translate(-300 -300)">
+
+<rect x="270" y="200" width="60" height="16" rx="8" fill="#855fa3"/>
+<circle cx="300" cy="336" r="128" fill="url(#l)"/>
+<circle cx="300" cy="336" r="112" fill="url(#b)"/>
+<circle cx="300" cy="336" r="112" fill="url(#glass)"/>
+<circle cx="300" cy="336" r="86" fill="#fff" opacity=".18"/>
+<path d="M212 300a112 112 0 0 1 176 0" stroke="#fff" stroke-opacity=".35" stroke-width="6" fill="none"/>
+</g>
+</svg>

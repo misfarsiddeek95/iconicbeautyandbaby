@@ -1,0 +1,27 @@
+{
+  "name": "cosmika-next",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Iconic Beauty & Baby — Next.js storefront (static export)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx --yes serve out -p 4180",
+    "typecheck": "tsc --noEmit",
+    "sync:assets": "node scripts/sync-assets.mjs",
+    "convert:legacy": "node scripts/convert-legacy.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "htmltojsx": "0.3.0",
+    "terser": "^5.51.2",
+    "typescript": "^5.9.0"
+  }
+}

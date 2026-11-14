@@ -1,0 +1,61 @@
+{
+ "name": "Iconic Beauty & Baby",
+ "legalName": "Iconic Beauty and Baby (PVT) LTD",
+ "brNumber": "PV00338908",
+ "url": "https://iconicbeautyandbaby.com",
+ "phone": "+94776290490",
+ "mobile": "+94776290490",
+ "whatsapp": "+94776290490",
+ "email": "hello@iconicbeautyandbaby.com",
+ "street": "No 118, Justice Akbar Mawatha",
+ "city": "Colombo 02",
+ "postcode": "00200",
+ "region": "Western Province",
+ "country": "LK",
+ "areaServed": [
+  "Sri Lanka",
+  "Colombo",
+  "Colombo 02"
+ ],
+ "hasMap": "https://www.google.com/maps/search/?api=1&query=No+118+Justice+Akbar+Mawatha+Colombo+02+Sri+Lanka",
+ "priceRange": "Rs 30–Rs 25,500",
+ "currenciesAccepted": "LKR",
+ "openingHours": [
+  "Mo-Th 08:00-21:30",
+  "Fr 13:30-21:30",
+  "Sa-Su 08:00-21:30"
+ ],
+ "openingHoursSpecification": [
+  {
+   "@type": "OpeningHoursSpecification",
+   "dayOfWeek": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday"
+   ],
+   "opens": "08:00",
+   "closes": "21:30"
+  },
+  {
+   "@type": "OpeningHoursSpecification",
+   "dayOfWeek": "Friday",
+   "opens": "13:30",
+   "closes": "21:30"
+  },
+  {
+   "@type": "OpeningHoursSpecification",
+   "dayOfWeek": [
+    "Saturday",
+    "Sunday"
+   ],
+   "opens": "08:00",
+   "closes": "21:30"
+  }
+ ],
+ "sameAs": [
+  "https://www.facebook.com/iconicbeautyandbaby",
+  "https://www.instagram.com/iconicbeautyandbaby",
+  "https://www.tiktok.com/@iconicbeautyandbaby"
+ ]
+}

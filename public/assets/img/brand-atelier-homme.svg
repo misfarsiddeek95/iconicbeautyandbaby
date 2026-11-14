@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+<title>Atelier Homme</title>
+<circle cx="100" cy="100" r="100" fill="#EDEAE4"/>
+<circle cx="100" cy="100" r="86" fill="none" stroke="#4B4F4C" stroke-width="1.4" stroke-dasharray="1.5 4.5"/>
+<text x="100" y="104" font-family="Cormorant Garamond, Georgia, serif" font-size="62" font-weight="600" fill="#2B2F2C" text-anchor="middle">AH</text>
+<text x="100" y="140" font-family="Jost, Helvetica, sans-serif" font-size="12" letter-spacing="3" fill="#4B4F4C" text-anchor="middle">ATELIER HOMME</text>
+</svg>
